@@ -1,3 +1,3 @@
 # MercadoLiebre
  
-mercadoliebre para entregable dh
+mercadoliebre para entregable dh (primeros pasos html y css)
